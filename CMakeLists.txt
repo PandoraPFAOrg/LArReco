@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.20 FATAL_ERROR)
-project(LArReco VERSION 05.08.00 LANGUAGES CXX)
+project(LArReco VERSION 05.09.00 LANGUAGES CXX)
 
 # Automatically add the path of the linked libraries to the RPATH
 set(CMAKE_INSTALL_RPATH_USE_LINK_PATH TRUE)
@@ -26,19 +26,19 @@ option(LArReco_BUILD_DOCS "Build documentation for ${PROJECT_NAME}" OFF)
 
 # Dependencies
 if (NOT TARGET PandoraPFA::PandoraSDK)
-    find_package(PandoraSDK 05.01.00 REQUIRED)
+    find_package(PandoraSDK 05.02.00 REQUIRED)
 endif()
 if (NOT TARGET PandoraPFA::LArContent)
-    find_package(LArContent 05.08.00 REQUIRED)
+    find_package(LArContent 05.09.00 REQUIRED)
 endif()
 
 if(PANDORA_LIBTORCH)
-    find_package(LArDLContent 05.08.00 REQUIRED)
+    find_package(LArDLContent 05.09.00 REQUIRED)
 endif()
 
 if(PANDORA_MONITORING)
     if (NOT TARGET PandoraPFA::PandoraMonitoring)
-        find_package(PandoraMonitoring 05.00.00 REQUIRED)
+        find_package(PandoraMonitoring 05.02.00 REQUIRED)
     endif()
     find_package(ROOT 6.18.04 REQUIRED COMPONENTS Eve Geom RGL EG)
 endif()
