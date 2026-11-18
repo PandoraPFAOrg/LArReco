@@ -1,134 +1,242 @@
-<Geometry>
-    <LArTPC>
-        <LArTPCVolumeId>0</LArTPCVolumeId>
-        <CenterX>-101.099998474</CenterX>
-        <CenterY>0</CenterY>
-        <CenterZ>254.699996948</CenterZ>
-        <WidthX>201.300003052</WidthX>
-        <WidthY>407.464508057</WidthY>
-        <WidthZ>509.399993896</WidthZ>
-        <WirePitchU>0.300000011921</WirePitchU>
-        <WirePitchV>0.300000011921</WirePitchV>
-        <WirePitchW>0.300000011921</WirePitchW>
-        <WireAngleU>1.04719758034</WireAngleU>
-        <WireAngleV>-1.04719758034</WireAngleV>
-        <WireAngleW>0</WireAngleW>
-        <SigmaUVW>1</SigmaUVW>
-        <IsDriftInPositiveX>0</IsDriftInPositiveX>
-    </LArTPC>
-    <LArTPC>
-        <LArTPCVolumeId>1</LArTPCVolumeId>
-        <CenterX>101.099998474</CenterX>
-        <CenterY>0</CenterY>
-        <CenterZ>254.699996948</CenterZ>
-        <WidthX>201.300003052</WidthX>
-        <WidthY>407.464508057</WidthY>
-        <WidthZ>509.399993896</WidthZ>
-        <WirePitchU>0.300000011921</WirePitchU>
-        <WirePitchV>0.300000011921</WirePitchV>
-        <WirePitchW>0.300000011921</WirePitchW>
-        <WireAngleU>1.04719758034</WireAngleU>
-        <WireAngleV>-1.04719758034</WireAngleV>
-        <WireAngleW>0</WireAngleW>
-        <SigmaUVW>1</SigmaUVW>
-        <IsDriftInPositiveX>1</IsDriftInPositiveX>
-    </LArTPC>
-    <LineGap>
-        <LineGapType>3</LineGapType>
-        <LineStartX>-0.449996948242</LineStartX>
-        <LineEndX>0.449996948242</LineEndX>
-        <LineStartZ>-3.40282346639e+38</LineStartZ>
-        <LineEndZ>3.40282346639e+38</LineEndZ>
-    </LineGap>
-    <LineGap>
-        <LineGapType>0</LineGapType>
-        <LineStartX>-201.75</LineStartX>
-        <LineEndX>-0.449996948242</LineEndX>
-        <LineStartZ>-170.25</LineStartZ>
-        <LineEndZ>-169.350006104</LineEndZ>
-    </LineGap>
-    <LineGap>
-        <LineGapType>0</LineGapType>
-        <LineStartX>-201.75</LineStartX>
-        <LineEndX>-0.449996948242</LineEndX>
-        <LineStartZ>424.649993896</LineStartZ>
-        <LineEndZ>424.949981689</LineEndZ>
-    </LineGap>
-    <LineGap>
-        <LineGapType>1</LineGapType>
-        <LineStartX>-201.75</LineStartX>
-        <LineEndX>-0.449996948242</LineEndX>
-        <LineStartZ>-170.25</LineStartZ>
-        <LineEndZ>-168.750015259</LineEndZ>
-    </LineGap>
-    <LineGap>
-        <LineGapType>2</LineGapType>
-        <LineStartX>-201.75</LineStartX>
-        <LineEndX>-0.449996948242</LineEndX>
-        <LineStartZ>5.40000009537</LineStartZ>
-        <LineEndZ>6.30000019073</LineEndZ>
-    </LineGap>
-    <LineGap>
-        <LineGapType>2</LineGapType>
-        <LineStartX>-201.75</LineStartX>
-        <LineEndX>-0.449996948242</LineEndX>
-        <LineStartZ>134.400009155</LineStartZ>
-        <LineEndZ>134.699996948</LineEndZ>
-    </LineGap>
-    <LineGap>
-        <LineGapType>2</LineGapType>
-        <LineStartX>-201.75</LineStartX>
-        <LineEndX>-0.449996948242</LineEndX>
-        <LineStartZ>255.300003052</LineStartZ>
-        <LineEndZ>257.100006104</LineEndZ>
-    </LineGap>
-    <LineGap>
-        <LineGapType>2</LineGapType>
-        <LineStartX>-201.75</LineStartX>
-        <LineEndX>-0.449996948242</LineEndX>
-        <LineStartZ>381</LineStartZ>
-        <LineEndZ>381.299987793</LineEndZ>
-    </LineGap>
-    <LineGap>
-        <LineGapType>1</LineGapType>
-        <LineStartX>0.449996948242</LineStartX>
-        <LineEndX>201.75</LineEndX>
-        <LineStartZ>-168.449996948</LineStartZ>
-        <LineEndZ>-167.550003052</LineEndZ>
-    </LineGap>
-    <LineGap>
-        <LineGapType>0</LineGapType>
-        <LineStartX>0.449996948242</LineStartX>
-        <LineEndX>201.75</LineEndX>
-        <LineStartZ>-168.75</LineStartZ>
-        <LineEndZ>-166.950012207</LineEndZ>
-    </LineGap>
-    <LineGap>
-        <LineGapType>2</LineGapType>
-        <LineStartX>0.449996948242</LineStartX>
-        <LineEndX>201.75</LineEndX>
-        <LineStartZ>7.19999980927</LineStartZ>
-        <LineEndZ>8.0999994278</LineEndZ>
-    </LineGap>
-    <LineGap>
-        <LineGapType>2</LineGapType>
-        <LineStartX>0.449996948242</LineStartX>
-        <LineEndX>201.75</LineEndX>
-        <LineStartZ>136.200012207</LineStartZ>
-        <LineEndZ>136.5</LineEndZ>
-    </LineGap>
-    <LineGap>
-        <LineGapType>2</LineGapType>
-        <LineStartX>0.449996948242</LineStartX>
-        <LineEndX>201.75</LineEndX>
-        <LineStartZ>257.100006104</LineStartZ>
-        <LineEndZ>258.899993896</LineEndZ>
-    </LineGap>
-    <LineGap>
-        <LineGapType>2</LineGapType>
-        <LineStartX>0.449996948242</LineStartX>
-        <LineEndX>201.75</LineEndX>
-        <LineStartZ>382.800018311</LineStartZ>
-        <LineEndZ>383.100006104</LineEndZ>
-    </LineGap>
-</Geometry>
+<PandoraFile>
+    <Header>
+        <Metadata schemaVersion="1">
+            <producerName type="string"></producerName>
+            <producerVersion type="string"></producerVersion>
+            <creationTimestamp type="string">2026-11-18T20:49:18Z</creationTimestamp>
+            <description type="string"></description>
+        </Metadata>
+        <SchemaRegistry schemaVersion="0">
+            <component_0 type="uint32">1</component_0>
+            <component_1 type="uint32">1</component_1>
+            <component_2 type="uint32">1</component_2>
+            <component_3 type="uint32">1</component_3>
+            <component_5 type="uint32">1</component_5>
+            <component_6 type="uint32">1</component_6>
+            <component_7 type="uint32">1</component_7>
+            <component_8 type="uint32">1</component_8>
+            <component_10 type="uint32">1</component_10>
+            <component_11 type="uint32">1</component_11>
+        </SchemaRegistry>
+    </Header>
+    <Geometry>
+        <LArTPC schemaVersion="1">
+            <larTPCVolumeId type="uint32">0</larTPCVolumeId>
+            <centerX type="float">-101.099998474</centerX>
+            <centerY type="float">0</centerY>
+            <centerZ type="float">250.5</centerZ>
+            <widthX type="float">201.300003052</widthX>
+            <widthY type="float">407.464508057</widthY>
+            <widthZ type="float">501</widthZ>
+            <wirePitchU type="float">0.300000011921</wirePitchU>
+            <wirePitchV type="float">0.300000011921</wirePitchV>
+            <wirePitchW type="float">0.300000011921</wirePitchW>
+            <wireAngleU type="float">1.04719758034</wireAngleU>
+            <wireAngleV type="float">-1.04719758034</wireAngleV>
+            <wireAngleW type="float">0</wireAngleW>
+            <sigmaUVW type="float">1</sigmaUVW>
+            <isDriftInPositiveX type="bool">0</isDriftInPositiveX>
+            <nReadoutVolumes type="uint32">1</nReadoutVolumes>
+            <readoutVolume0_center type="cvec">-101.099998474 0 250.5</readoutVolume0_center>
+            <readoutVolume0_size type="cvec">201.300003052 407.464508057 501</readoutVolume0_size>
+            <readoutVolume0_nUnits type="uint32">3</readoutVolume0_nUnits>
+            <readoutVolume0_unit0_view type="uint32">4</readoutVolume0_unit0_view>
+            <readoutVolume0_unit0_nChannels type="uint32">1984</readoutVolume0_unit0_nChannels>
+            <readoutVolume0_unit0_referenceCoordinate type="float">-172.200012207</readoutVolume0_unit0_referenceCoordinate>
+            <readoutVolume0_unit0_pitch type="float">0.300000011921</readoutVolume0_unit0_pitch>
+            <readoutVolume0_unit0_unitCenter type="cvec">0 0 250.5</readoutVolume0_unit0_unitCenter>
+            <readoutVolume0_unit0_unitSize type="cvec">0 400.015228271 501.315246582</readoutVolume0_unit0_unitSize>
+            <readoutVolume0_unit1_view type="uint32">5</readoutVolume0_unit1_view>
+            <readoutVolume0_unit1_nChannels type="uint32">1984</readoutVolume0_unit1_nChannels>
+            <readoutVolume0_unit1_referenceCoordinate type="float">-172.200012207</readoutVolume0_unit1_referenceCoordinate>
+            <readoutVolume0_unit1_pitch type="float">0.300000011921</readoutVolume0_unit1_pitch>
+            <readoutVolume0_unit1_unitCenter type="cvec">0 0 250.5</readoutVolume0_unit1_unitCenter>
+            <readoutVolume0_unit1_unitSize type="cvec">0 400.015228271 501.315246582</readoutVolume0_unit1_unitSize>
+            <readoutVolume0_unit2_view type="uint32">6</readoutVolume0_unit2_view>
+            <readoutVolume0_unit2_nChannels type="uint32">1670</readoutVolume0_unit2_nChannels>
+            <readoutVolume0_unit2_referenceCoordinate type="float">0.15000000596</readoutVolume0_unit2_referenceCoordinate>
+            <readoutVolume0_unit2_pitch type="float">0.300000011921</readoutVolume0_unit2_pitch>
+            <readoutVolume0_unit2_unitCenter type="cvec">0 0 250.5</readoutVolume0_unit2_unitCenter>
+            <readoutVolume0_unit2_unitSize type="cvec">0 400.015228271 501.315246582</readoutVolume0_unit2_unitSize>
+        </LArTPC>
+        <LArTPC schemaVersion="1">
+            <larTPCVolumeId type="uint32">1</larTPCVolumeId>
+            <centerX type="float">101.099998474</centerX>
+            <centerY type="float">0</centerY>
+            <centerZ type="float">250.5</centerZ>
+            <widthX type="float">201.300003052</widthX>
+            <widthY type="float">407.464508057</widthY>
+            <widthZ type="float">501</widthZ>
+            <wirePitchU type="float">0.300000011921</wirePitchU>
+            <wirePitchV type="float">0.300000011921</wirePitchV>
+            <wirePitchW type="float">0.300000011921</wirePitchW>
+            <wireAngleU type="float">1.04719758034</wireAngleU>
+            <wireAngleV type="float">-1.04719758034</wireAngleV>
+            <wireAngleW type="float">0</wireAngleW>
+            <sigmaUVW type="float">1</sigmaUVW>
+            <isDriftInPositiveX type="bool">1</isDriftInPositiveX>
+            <nReadoutVolumes type="uint32">1</nReadoutVolumes>
+            <readoutVolume0_center type="cvec">101.099998474 0 250.5</readoutVolume0_center>
+            <readoutVolume0_size type="cvec">201.300003052 407.464508057 501</readoutVolume0_size>
+            <readoutVolume0_nUnits type="uint32">3</readoutVolume0_nUnits>
+            <readoutVolume0_unit1_view type="uint32">4</readoutVolume0_unit1_view>
+            <readoutVolume0_unit1_nChannels type="uint32">1984</readoutVolume0_unit1_nChannels>
+            <readoutVolume0_unit1_referenceCoordinate type="float">-172.200012207</readoutVolume0_unit1_referenceCoordinate>
+            <readoutVolume0_unit1_pitch type="float">0.300000011921</readoutVolume0_unit1_pitch>
+            <readoutVolume0_unit1_unitCenter type="cvec">0 0 250.5</readoutVolume0_unit1_unitCenter>
+            <readoutVolume0_unit1_unitSize type="cvec">0 400.015228271 501.315246582</readoutVolume0_unit1_unitSize>
+            <readoutVolume0_unit0_view type="uint32">5</readoutVolume0_unit0_view>
+            <readoutVolume0_unit0_nChannels type="uint32">1984</readoutVolume0_unit0_nChannels>
+            <readoutVolume0_unit0_referenceCoordinate type="float">-172.200012207</readoutVolume0_unit0_referenceCoordinate>
+            <readoutVolume0_unit0_pitch type="float">0.300000011921</readoutVolume0_unit0_pitch>
+            <readoutVolume0_unit0_unitCenter type="cvec">0 0 250.5</readoutVolume0_unit0_unitCenter>
+            <readoutVolume0_unit0_unitSize type="cvec">0 400.015228271 501.315246582</readoutVolume0_unit0_unitSize>
+            <readoutVolume0_unit2_view type="uint32">6</readoutVolume0_unit2_view>
+            <readoutVolume0_unit2_nChannels type="uint32">1670</readoutVolume0_unit2_nChannels>
+            <readoutVolume0_unit2_referenceCoordinate type="float">0.15000000596</readoutVolume0_unit2_referenceCoordinate>
+            <readoutVolume0_unit2_pitch type="float">0.300000011921</readoutVolume0_unit2_pitch>
+            <readoutVolume0_unit2_unitCenter type="cvec">0 0 250.5</readoutVolume0_unit2_unitCenter>
+            <readoutVolume0_unit2_unitSize type="cvec">0 400.015228271 501.315246582</readoutVolume0_unit2_unitSize>
+        </LArTPC>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">3</lineGapType>
+            <lineStartX type="float">-0.449996948242</lineStartX>
+            <lineEndX type="float">0.449996948242</lineEndX>
+            <lineStartZ type="float">-3.40282346639e+38</lineStartZ>
+            <lineEndZ type="float">3.40282346639e+38</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">0</lineGapType>
+            <lineStartX type="float">-201.75</lineStartX>
+            <lineEndX type="float">-0.449996948242</lineEndX>
+            <lineStartZ type="float">-8.55000495911</lineStartZ>
+            <lineEndZ type="float">-8.25000572205</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">0</lineGapType>
+            <lineStartX type="float">-201.75</lineStartX>
+            <lineEndX type="float">-0.449996948242</lineEndX>
+            <lineStartZ type="float">9.74999427795</lineStartZ>
+            <lineEndZ type="float">10.049993515</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">1</lineGapType>
+            <lineStartX type="float">-201.75</lineStartX>
+            <lineEndX type="float">-0.449996948242</lineEndX>
+            <lineStartZ type="float">66.7499923706</lineStartZ>
+            <lineEndZ type="float">67.0499954224</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">1</lineGapType>
+            <lineStartX type="float">-201.75</lineStartX>
+            <lineEndX type="float">-0.449996948242</lineEndX>
+            <lineStartZ type="float">146.850006104</lineStartZ>
+            <lineEndZ type="float">147.149993896</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">1</lineGapType>
+            <lineStartX type="float">-201.75</lineStartX>
+            <lineEndX type="float">-0.449996948242</lineEndX>
+            <lineStartZ type="float">202.050003052</lineStartZ>
+            <lineEndZ type="float">211.649993896</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">2</lineGapType>
+            <lineStartX type="float">-201.75</lineStartX>
+            <lineEndX type="float">-0.449996948242</lineEndX>
+            <lineStartZ type="float">57.5999984741</lineStartZ>
+            <lineEndZ type="float">67.2000045776</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">2</lineGapType>
+            <lineStartX type="float">-201.75</lineStartX>
+            <lineEndX type="float">-0.449996948242</lineEndX>
+            <lineStartZ type="float">121.799995422</lineStartZ>
+            <lineEndZ type="float">122.099998474</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">2</lineGapType>
+            <lineStartX type="float">-201.75</lineStartX>
+            <lineEndX type="float">-0.449996948242</lineEndX>
+            <lineStartZ type="float">131.100006104</lineStartZ>
+            <lineEndZ type="float">131.399993896</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">2</lineGapType>
+            <lineStartX type="float">-201.75</lineStartX>
+            <lineEndX type="float">-0.449996948242</lineEndX>
+            <lineStartZ type="float">249.600006104</lineStartZ>
+            <lineEndZ type="float">251.399993896</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">2</lineGapType>
+            <lineStartX type="float">-201.75</lineStartX>
+            <lineEndX type="float">-0.449996948242</lineEndX>
+            <lineStartZ type="float">378.899993896</lineStartZ>
+            <lineEndZ type="float">379.199981689</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">1</lineGapType>
+            <lineStartX type="float">0.449996948242</lineStartX>
+            <lineEndX type="float">201.75</lineEndX>
+            <lineStartZ type="float">286.049987793</lineStartZ>
+            <lineEndZ type="float">286.649993896</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">1</lineGapType>
+            <lineStartX type="float">0.449996948242</lineStartX>
+            <lineEndX type="float">201.75</lineEndX>
+            <lineStartZ type="float">286.950012207</lineStartZ>
+            <lineEndZ type="float">287.25</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">0</lineGapType>
+            <lineStartX type="float">0.449996948242</lineStartX>
+            <lineEndX type="float">201.75</lineEndX>
+            <lineStartZ type="float">54.4499931335</lineStartZ>
+            <lineEndZ type="float">54.7499961853</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">0</lineGapType>
+            <lineStartX type="float">0.449996948242</lineStartX>
+            <lineEndX type="float">201.75</lineEndX>
+            <lineStartZ type="float">59.5499916077</lineStartZ>
+            <lineEndZ type="float">59.8499946594</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">0</lineGapType>
+            <lineStartX type="float">0.449996948242</lineStartX>
+            <lineEndX type="float">201.75</lineEndX>
+            <lineStartZ type="float">113.249992371</lineStartZ>
+            <lineEndZ type="float">113.549995422</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">2</lineGapType>
+            <lineStartX type="float">0.449996948242</lineStartX>
+            <lineEndX type="float">201.75</lineEndX>
+            <lineStartZ type="float">121.799995422</lineStartZ>
+            <lineEndZ type="float">122.099998474</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">2</lineGapType>
+            <lineStartX type="float">0.449996948242</lineStartX>
+            <lineEndX type="float">201.75</lineEndX>
+            <lineStartZ type="float">249.600006104</lineStartZ>
+            <lineEndZ type="float">251.399993896</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">2</lineGapType>
+            <lineStartX type="float">0.449996948242</lineStartX>
+            <lineEndX type="float">201.75</lineEndX>
+            <lineStartZ type="float">378.899993896</lineStartZ>
+            <lineEndZ type="float">379.199981689</lineEndZ>
+        </LineGap>
+        <LineGap schemaVersion="1">
+            <lineGapType type="uint32">2</lineGapType>
+            <lineStartX type="float">0.449996948242</lineStartX>
+            <lineEndX type="float">201.75</lineEndX>
+            <lineStartZ type="float">462.300018311</lineStartZ>
+            <lineEndZ type="float">462.600006104</lineEndZ>
+        </LineGap>
+    </Geometry>
+</PandoraFile>
